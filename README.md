@@ -46,7 +46,7 @@ The normal and OOP versions of this game and the 3D version are available in sep
 
 ***NOTE***
 
-- [Normal Java Version](https://github.com/yagmurbasoglu/JavaGames/blob/5fd9af977c44695df62b49fc8720f1a065e85bef/MinesweeperGame.zip)
+- [Normal Java Version](https://github.com/yagmurbasoglu/SnakeGame/blob/66bdebb5627741d5ca9fa4130c626ed04e70b341/SnakeGame.zip)
 
 ***NOTE***
 
